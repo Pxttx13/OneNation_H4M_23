@@ -1,9 +1,9 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:one_nation/Desktop/home_dekstop.dart';
-import 'package:one_nation/Sevices/service_home.dart';
+// import 'package:one_nation/Sevices/service_home.dart';
 import 'package:one_nation/Widgets/app_bar.dart';
-import 'package:one_nation/Widgets/donate.dart';
+// import 'package:one_nation/Widgets/donate.dart';
 
 import 'Mobile/home_mobile.dart';
 
